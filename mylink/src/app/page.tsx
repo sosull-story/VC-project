@@ -4,7 +4,7 @@ export default function ProfilePage() {
       <div className="flex w-full max-w-sm flex-col items-center rounded-2xl border border-zinc-200/80 bg-white p-8 text-center shadow-sm dark:border-zinc-800 dark:bg-zinc-900">
         {/* 프로필 아바타 / 이니셜 */}
         <div className="mb-5 flex h-24 w-24 items-center justify-center rounded-full bg-zinc-100 text-2xl font-semibold text-zinc-700 shadow-inner dark:bg-zinc-800 dark:text-zinc-200">
-          소
+          SO
         </div>
 
         {/* 이름 */}
